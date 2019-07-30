@@ -1,0 +1,16 @@
+
+@font-face {
+  font-family: 'DymaxionScript';
+  src: url('DymaxionScript.eot') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'DymaxionScript';
+  src:  url(data:application/x-font-woff;charset=utf-8;base64,) format('woff'), url('DymaxionScript.ttf')  format('truetype'), url('DymaxionScript.svg#DymaxionScript') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
